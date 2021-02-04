@@ -1,0 +1,1 @@
+{"services":{"moviesapi":{"index":1,"instances":[{"apiName":"moviesapi","protocol":"http","host":"localhost","port":"3000","url":"http://localhost:3000/","enabled":true},{"apiName":"moviesapi","protocol":"http","host":"localhost","port":"3002","url":"http://localhost:3002/","enabled":false}],"loadBalanceStrategy":"ROUND_ROBIN"}}}
